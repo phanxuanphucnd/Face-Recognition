@@ -6,4 +6,4 @@ Self.learning Computer Vision
 
 ### Author 
 
-By Phuc Phan @ 2021.
+By Phuc Phan @ 2021.    
